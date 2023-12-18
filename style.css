@@ -1,0 +1,125 @@
+/* START  navigation module CSS here   */
+body{
+	background-color: rgba(40, 15, 69, 0.824);
+	color: white;
+}
+
+
+.navbar{
+	background-color:#40054c;
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+}
+
+/* END  navigation module CSS here   */
+
+
+/* START CAROUSEL MODULES CSS */
+#carousel img
+{
+	height:550px;         
+}
+/* END CAROUSEL MODULES CSS*/
+
+
+
+/* START THREE PHOTO MODULES CSS*/
+#threePhotoSection img
+{
+	height:300px;
+	border-radius:50%;
+
+}
+#threePhotoSection h3
+{
+margin-top:50px;
+margin-bottom:50px;
+}
+
+.card{
+	flex: 1;
+	justify-content: space-around;
+}
+.card-body{
+	color: black;
+}
+#threePhotoSection
+{
+	margin-bottom:30px;
+}
+
+.threePhotoSection{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+/* END OF THREE PHOTO MODULES CSS*/
+
+/* START OF PARAGRAPH MODULES CSS*/
+#moreAboutUs h3 
+{
+	padding:25px;
+	padding-bottom:40px;
+	color:white;
+}
+
+#moreAboutUs  blockquote
+{
+	padding:55px;
+	
+}
+#moreAboutUs
+{
+	background-image: url("images/ironman.jpg");
+	
+		color:white;
+}
+
+.carousel-item p, h5{
+	color: rgb(255, 255, 255);
+	box-shadow: 0px 0px 10px  rgb(0, 0, 0);
+}
+
+/* END OF PARAGRAPH MODULES CSS*/
+
+/* START OF TABLE MODULE CSS*/
+.contact{
+	background: radial-gradient(#40054c,rgba(255, 255, 255, 0.626));
+	justify-content: center;
+	border-radius: 10px;
+}
+
+/* END OF TABLE MODULE CSS*/
+
+
+/* START OF FORM MODULES CSS*/
+
+
+/* END OF FORM MODULES CSS*/
+
+/* START OF BUTTON CSS*/
+.btn{
+	margin-left:auto;
+	margin-right:auto;display:block;
+	margin-bottom:50px;
+    margin-top:50px;
+}
+/* END OF BUTTON CSS*/
+
+ /* START OF FOOTER CSS*/
+ .footer{
+	background-image: url("images/5.png");
+	color:rgb(0, 0, 0);
+}
+
+ /* END OF FOOTER CSS*/
